@@ -286,7 +286,7 @@ a {
 
 @media screen and (min-width: 1209px) {
   .o-t-home {
-    width: 1440px;
+    width: auto;
     height: 823px;
     background-image: url("/img/Home.png");
     padding: 218px 80px;
@@ -488,15 +488,15 @@ a {
 
 @media screen and (min-width: 1209px) {
   .o-t-uniqueness {
-    width: 1440px;
+    width: auto;
     padding: 150px 0 0 0;
   }
   .o-t-uniqueness-container {
     margin: auto;
-    width: 1440px;
+
     height: 477px;
     background-image: url("/img/Advantages.png");
-    width: 1440px;
+
     padding: 0 459px;
   }
   .o-t-uniqueness-list {
